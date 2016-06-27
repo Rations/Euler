@@ -1,0 +1,1 @@
+Euler.py is the master file with functions that solve each problem. It also contains several useful helper methods. Several problems require external text files; these files have been unambiguously named. 
